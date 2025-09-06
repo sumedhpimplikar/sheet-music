@@ -7,7 +7,7 @@
 
 <!-- TITLE with Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Check+Out+My+Channel;Get+Free+Guitar+Tabs!;Download+Tabs+Here!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Check+Out+My+Channel!;Get+Free+Guitar+Tabs+%26+Sheet+Music!;Download+Tabs+%26+Sheet+Music+Here!" alt="Typing SVG" />
 </p>
 
 
@@ -42,8 +42,9 @@
 
 <!-- TITLE with Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Sample+Guitar+Tab+Sheet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Sample+Notation+%26+Tabs+Sheet" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="readme-assets/Ode to Joy Tablature_page-0001.jpg" alt="Channel Trailer" width="1000">
